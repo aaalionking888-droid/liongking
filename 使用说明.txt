@@ -1,0 +1,7 @@
+李若雯｜旅游产品经理作品集
+
+网页：解压后打开 index.html，即可离线浏览。请保持 assets、style.css、app.js 与 index.html 的相对位置。
+PPT：downloads 文件夹内为可编辑 PowerPoint；PDF 为便于预览的版本。
+产品原始链接和抖音视频需要联网访问。
+本作品集共三个部分：个人介绍、项目案例、其他技能。
+联系方式：13211834314 / 2628491092@qq.com
